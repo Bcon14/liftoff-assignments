@@ -10,7 +10,7 @@ For this assignment, you'll create some initial plans for your project.
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
-![GitHub Logo](https://balsamiq.cloud/s6ryc59/poar2n/rAB35)
+![](https://balsamiq.cloud/s6ryc59/poar2n/rAB35)
 
 
 ### Project Tracker
